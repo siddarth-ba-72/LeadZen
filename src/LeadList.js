@@ -25,7 +25,7 @@ const LeadList = ({ leads }) => {
                         onChange={handleSearchChange}
                     />
                     <button className="search__button">
-                        search
+                        Search
                     </button>
                 </form>
             </header>
